@@ -60,7 +60,8 @@ Start_date:Start_time:End_date:Hours_spent:Income earned
 
 
 ## Roadmaps
-The project is still being developed although there are planned changes to take place. Newer versions will be released every six months with some security updates every month.
+The project is still being developed although there are planned changes to take place. Newer versions will be released every six months with some security updates every month. 
+Program is now in private preview and therefore access is free. When there is general availability, everyone can have access at a nominal price.
 
 
 ## Contributors
