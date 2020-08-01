@@ -50,7 +50,7 @@ Start_date:Start_time:End_date:Hours_spent:Income earned
 
 
 ## Installation
--The program was developed with python 3 and is compatible with Windows. Mac OS and Linux users will be released soon.
+-The program was developed with python 3.8.3 and is compatible with Windows. Mac OS and Linux users will be released soon.
 
 
 ## Support
